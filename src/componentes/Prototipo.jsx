@@ -3,47 +3,41 @@ export default function Galeria() {
         <div id="prototipo">
             <div className="Galeria">
                 <div className="galeria">
-                    <img src="2.png" />
-                </div>
-
-
-                <div className="galeria">
-                    <img src="2.png" />
-                </div>
-                <div className="galeria">
-                    <img src="3.png" />
+                    <img src="login (1).png" />
                 </div>
 
                 <div className="galeria">
-                    <img src="4.png" />
+                    <img src="definicaodeperfil.png" />
                 </div>
                 <div className="galeria">
-                    <img src="P4.png" />
-                </div>
-                <div className="galeria">
-                    <img src="5.png" />
-                </div>
-                <div className="galeria">
-                    <img src="6.png" />
+                    <img src="inicioNovo.png" />
                 </div>
 
                 <div className="galeria">
-                    <img src="7.png" />
+                    <img src="listadelanche.png" />
+                </div>
+                <div className="galeria">
+                    <img src="selecaodemarmita.png" />
+                </div>
+                <div className="galeria">
+                    <img src="paoNovo.png" />
+                </div>
+                <div className="galeria">
+                    <img src="rolissoNovo.png" />
                 </div>
 
                 <div className="galeria">
-                    <img src="8.png" />
+                    <img src="carrinho.png" />
                 </div>
 
                 <div className="galeria">
-                    <img src="9.png" />
+                    <img src="ju.png" />
                 </div>
+
                 <div className="galeria">
-                    <img src="10.png" />
+                    <img src="restaurantes.png" />
                 </div>
-                <div className="galeria">
-                    <img src="11.png" />
-                </div>
+            
 
 
             </div>

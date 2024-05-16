@@ -10,7 +10,7 @@ export default function Navbar () {
           <li><a href="#Sobre">Sobre</a></li>
           <li><a href="#prototipo">Prototipo</a></li>
           <li><a href="#Contato">Contato</a></li>
-          <li><a href="/">Nutricionistas</a></li>
+          <li><a href="#nutri">Nutricionistas</a></li>
         </ul>
       </nav>
     </header>
