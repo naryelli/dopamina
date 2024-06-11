@@ -6,6 +6,7 @@ import TituloPrototipo from './componentes/TituloPrototipo'
 import Contato from './componentes/Contato'
 import Aplicativo from './componentes/Aplicativo'
 import Nutri from './componentes/Nutri'
+import Blog from './componentes/Blog'
 import './App.css'
 
 
@@ -21,8 +22,10 @@ function App() {
      <TituloPrototipo></TituloPrototipo>
      <Prototipo></Prototipo>
      <Nutri></Nutri>
+     <Blog></Blog>
      <Contato></Contato>
      <Aplicativo></Aplicativo>
+     
 
     
     </>

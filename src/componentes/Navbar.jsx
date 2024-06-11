@@ -11,6 +11,7 @@ export default function Navbar () {
           <li><a href="#prototipo">Prototipo</a></li>
           <li><a href="#Contato">Contato</a></li>
           <li><a href="#nutri">Nutricionistas</a></li>
+          <li><a href="#blog">Cupons</a></li>
         </ul>
       </nav>
     </header>
